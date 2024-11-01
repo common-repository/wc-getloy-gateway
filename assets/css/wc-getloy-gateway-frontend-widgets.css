@@ -1,0 +1,20 @@
+.widget_getloy_payway_footer_box {
+	max-width: 100%;
+}
+
+.widget_getloy_payway_footer_box .getloy-widget-title {
+    margin-bottom: .5em;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.getloy-widget-payment-options {
+	margin: 0 -2px;
+}
+
+.getloy-widget-payment-options img {
+	height: 30px;
+	width: auto;
+	display: inline-block;
+	margin: 0 2px;
+}

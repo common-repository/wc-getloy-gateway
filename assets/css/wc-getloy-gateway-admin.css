@@ -1,0 +1,21 @@
+ul.getloy-error-list {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+.woocommerce #mainform > * {
+	max-width: 700px;
+}
+
+.woocommerce #mainform > .woo-nav-tab-wrapper {
+	max-width: unset;
+}
+
+.woocommerce_page_wc-settings .woocommerce #mainform h3.wc-settings-sub-title {
+	border-bottom: 1px solid #aaa;
+	padding-bottom: 4px;
+}
+
+.woocommerce_page_wc-settings .woocommerce #mainform h3.getloy-method-variant-block + table {
+	border-top: 0;
+}
